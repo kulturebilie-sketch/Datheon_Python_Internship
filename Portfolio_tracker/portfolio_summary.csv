@@ -1,0 +1,5 @@
+run_timestamp,ticker,shares,avg_buy_price,current_price,invested,market_value,gain_loss,gain_loss_pct
+2026-11-16T23:28:36,AAPL,8.0,130.0,230.0,1040.0,1840.0,800.0,76.92
+2026-11-16T23:28:36,TOTAL,,,,1040.0,1840.0,800.0,76.92
+2026-11-16T23:33:20,NVDA,6.0,120.0,140.0,720.0,840.0,120.0,16.67
+2026-11-16T23:33:20,TOTAL,,,,720.0,840.0,120.0,16.67
